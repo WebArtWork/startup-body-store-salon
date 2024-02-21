@@ -2,11 +2,9 @@
 	"name": "service",
 	"service": {
 		"id": "/service",
-		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"thumb": "https://neryxomka.com/template/img/welcome.png",
-        "thumbs": ["https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png"],
-		"name": "service"
+		"thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"],
+		"description": "Welcome to our oasis of beauty, where indulgence meets expertise in a haven designed to rejuvenate and enhance your natural allure. Our beauty salon is more than just a destination; it's an experience tailored to pamper your senses, elevate your confidence, and leave you looking and feeling your absolute best.",
+		"name": "Beauty service"
 	}
 }
